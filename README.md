@@ -16,4 +16,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragb3005)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragb3005) 
+&theme=dark
+&theme=radical
+&theme=transparent
