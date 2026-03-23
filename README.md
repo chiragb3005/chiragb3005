@@ -17,5 +17,3 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragb3005&theme=transparent) 
-![GitHub langused](https://github-readme-stats.vercel.app/api?username=chiragb3005&theme=transparent) 
-
