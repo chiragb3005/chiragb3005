@@ -15,6 +15,14 @@
 😄 Pronouns: He/Him
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragb3005&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragb3005&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chiragb3005&show_icons=true&theme=radical"/>
+    </td>
+    <td width="50"></td> <!-- spacing -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragb3005&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
