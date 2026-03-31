@@ -12,5 +12,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chiragb3005&theme=radical" /><br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragb3005&theme=radical" /><br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragb3005&theme=radical" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragb3005&theme=radical" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragb3005&layout=compact&theme=radical&langs_count=10" />
 </p>
