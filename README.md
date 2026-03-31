@@ -12,11 +12,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chiragb3005&show_icons=true&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragb3005&theme=radical" />
     </td>
     <td width="50"></td> <!-- spacing -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragb3005&layout=compact&theme=radical"/>
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragb3005&layout=compact&theme=radical"/> -->
     </td>
   </tr>
 </table>
